@@ -1,0 +1,33 @@
+{
+  "name": "شجرة آل الخطيب - المشرف",
+  "short_name": "المشرف",
+  "description": "تصفّح شجرة العائلة وأضف أفراداً وصدّر الإضافات إلى Excel مقفول بكلمة سر.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./admin.html",
+  "scope": "./",
+  "id": "./admin.html",
+  "display": "standalone",
+  "background_color": "#0a3a2e",
+  "theme_color": "#0a3a2e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
